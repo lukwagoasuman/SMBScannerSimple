@@ -43,3 +43,5 @@ if grep 445 scan_results.txt | grep -iq open
    echo "Open SMB share ports not found."
 
 fi
+
+# lukewago
