@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.dll
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.pdb
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.dll
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/refint/TestProject.dll
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.pdb
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
+/home/lukewago/Desktop/github/CsharpProjects/TestProject/obj/Debug/net6.0/ref/TestProject.dll
